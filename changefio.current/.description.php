@@ -1,0 +1,9 @@
+<? if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die(); 
+$arComponentDescription = array(
+"FIRST_NAME" => GetMessage(“Èìÿ”),
+"LAST_NAME" => GetMessage(“Ôàìèëèÿ”),
+"FATHER_NAME" => GetMessage(“Îò÷åñòâî”),
+"ItemID" => GetMessage(“ID”),
+
+);
+?>
