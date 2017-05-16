@@ -1,14 +1,14 @@
 <? if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die(); 
 $arComponentDescription = array(
-"NAME" => "MYDATA",
-"DESCRIPTION" => GetMessage("‚ûâîäèì òåêóùóþ äàòó"),
+/*"NAME" => "MYDATA",
+"DESCRIPTION" => GetMessage("â€šÃ»Ã¢Ã®Ã¤Ã¨Ã¬ Ã²Ã¥ÃªÃ³Ã¹Ã³Ã¾ Ã¤Ã Ã²Ã³"),
 "PATH" => array(
 "ID" => "dv_components",
 "CHILD" => array(
 "ID" => "curdate",
-"NAME" => "DateMoment",
+"NAME" => "Template",
 )
-
+*/
 ),
 );
 ?>
