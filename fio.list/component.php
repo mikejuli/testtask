@@ -141,18 +141,6 @@ document.getElementById(countDiv).innerHTML="<input type = 'text' id = 'first_na
                        })
 
 
-
-/*
-$APPLICATION->IncludeComponent(
-'dv:date.current',
-'.default',
-Array(
-'NAME' => '0000000',
-),
-false
-);*/
-
-			
           
       }
   }
